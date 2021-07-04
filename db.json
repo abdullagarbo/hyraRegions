@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "Name": "Blekinge",
+    },
+    {
+      "_id": 2,
+      "Name": "Dalarnas",
+    },
+    {
+      "_id": 3,
+      "Name": "Gotlands",
+    },
+    {
+      "_id": 4,
+      "Name": "Gävleborgs",
+    },
+    {
+      "_id": 5,
+      "Name": "Hallands",
+    },
+    {
+      "_id": 6,
+      "Name": "Jämtlands",
+    },
+    {
+      "_id": 7,
+      "Name": "Jönköpings",
+    },
+    {
+      "_id": 8,
+      "Name": "Kalmar",
+    },
+    {
+      "_id": 9,
+      "Name": "Kronobergs",
+    },
+    {
+      "_id": 10,
+      "Name": "Norrbottens",
+    },
+    {
+      "_id": 11,
+      "Name": "Skåne",
+    },
+    {
+      "_id": 12,
+      "Name": "Stockholms",
+    },
+    {
+      "_id": 13,
+      "Name": "Södermanlands",
+    },
+    {
+      "_id": 14,
+      "Name": "Uppsala",
+    },
+    {
+      "_id": 15,
+      "Name": "Värmlands",
+    },
+    {
+      "_id": 16,
+      "Name": "Västerbottens",
+    },
+    {
+      "_id": 17,
+      "Name": "Västernorrlands",
+    },
+    {
+      "_id": 18,
+      "Name": "Västmanlands",
+    },
+    {
+      "_id": 19,
+      "Name": "Västra Götalands",
+    },
+    {
+      "_id": 20,
+      "Name": "Örebro",
+    },
+    {
+      "_id": 21,
+      "Name": "Östergötlands",
+    },
+  ]
+}
