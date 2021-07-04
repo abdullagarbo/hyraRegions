@@ -2,87 +2,87 @@
   "regions": [
     {
       "_id": 1,
-      "Name": "Blekinge",
+      "Name": "Blekinge"
     },
     {
       "_id": 2,
-      "Name": "Dalarnas",
+      "Name": "Dalarnas"
     },
     {
       "_id": 3,
-      "Name": "Gotlands",
+      "Name": "Gotlands"
     },
     {
       "_id": 4,
-      "Name": "Gävleborgs",
+      "Name": "Gävleborgs"
     },
     {
       "_id": 5,
-      "Name": "Hallands",
+      "Name": "Hallands"
     },
     {
       "_id": 6,
-      "Name": "Jämtlands",
+      "Name": "Jämtlands"
     },
     {
       "_id": 7,
-      "Name": "Jönköpings",
+      "Name": "Jönköpings"
     },
     {
       "_id": 8,
-      "Name": "Kalmar",
+      "Name": "Kalmar"
     },
     {
       "_id": 9,
-      "Name": "Kronobergs",
+      "Name": "Kronobergs"
     },
     {
       "_id": 10,
-      "Name": "Norrbottens",
+      "Name": "Norrbottens"
     },
     {
       "_id": 11,
-      "Name": "Skåne",
+      "Name": "Skåne"
     },
     {
       "_id": 12,
-      "Name": "Stockholms",
+      "Name": "Stockholms"
     },
     {
       "_id": 13,
-      "Name": "Södermanlands",
+      "Name": "Södermanlands"
     },
     {
       "_id": 14,
-      "Name": "Uppsala",
+      "Name": "Uppsala"
     },
     {
       "_id": 15,
-      "Name": "Värmlands",
+      "Name": "Värmlands"
     },
     {
       "_id": 16,
-      "Name": "Västerbottens",
+      "Name": "Västerbottens"
     },
     {
       "_id": 17,
-      "Name": "Västernorrlands",
+      "Name": "Västernorrlands"
     },
     {
       "_id": 18,
-      "Name": "Västmanlands",
+      "Name": "Västmanlands"
     },
     {
       "_id": 19,
-      "Name": "Västra Götalands",
+      "Name": "Västra Götalands"
     },
     {
       "_id": 20,
-      "Name": "Örebro",
+      "Name": "Örebro"
     },
     {
       "_id": 21,
-      "Name": "Östergötlands",
-    },
+      "Name": "Östergötlands"
+    }
   ]
 }
