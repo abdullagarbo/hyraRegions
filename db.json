@@ -5,27 +5,27 @@
 		},
 		{
 			"_id": 2,
-			"Name": "Dalarnas"
+			"Name": "Dalarna"
 		},
 		{
 			"_id": 3,
-			"Name": "Gotlands"
+			"Name": "Gotland"
 		},
 		{
 			"_id": 4,
-			"Name": "Gävleborgs"
+			"Name": "Gävleborg"
 		},
 		{
 			"_id": 5,
-			"Name": "Hallands"
+			"Name": "Halland"
 		},
 		{
 			"_id": 6,
-			"Name": "Jämtlands"
+			"Name": "Jämtland"
 		},
 		{
 			"_id": 7,
-			"Name": "Jönköpings"
+			"Name": "Jönköping"
 		},
 		{
 			"_id": 8,
@@ -33,11 +33,11 @@
 		},
 		{
 			"_id": 9,
-			"Name": "Kronobergs"
+			"Name": "Kronoberg"
 		},
 		{
 			"_id": 10,
-			"Name": "Norrbottens"
+			"Name": "Norrbotten"
 		},
 		{
 			"_id": 11,
@@ -45,11 +45,11 @@
 		},
 		{
 			"_id": 12,
-			"Name": "Stockholms"
+			"Name": "Stockholm"
 		},
 		{
 			"_id": 13,
-			"Name": "Södermanlands"
+			"Name": "Södermanland"
 		},
 		{
 			"_id": 14,
@@ -57,23 +57,23 @@
 		},
 		{
 			"_id": 15,
-			"Name": "Värmlands"
+			"Name": "Värmland"
 		},
 		{
 			"_id": 16,
-			"Name": "Västerbottens"
+			"Name": "Västerbotten"
 		},
 		{
 			"_id": 17,
-			"Name": "Västernorrlands"
+			"Name": "Västernorrland"
 		},
 		{
 			"_id": 18,
-			"Name": "Västmanlands"
+			"Name": "Västmanland"
 		},
 		{
 			"_id": 19,
-			"Name": "Västra Götalands"
+			"Name": "Västra Götaland"
 		},
 		{
 			"_id": 20,
@@ -81,7 +81,7 @@
 		},
 		{
 			"_id": 21,
-			"Name": "Östergötlands"
+			"Name": "Östergötland"
 		}
 	]
 }
