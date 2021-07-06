@@ -1,87 +1,87 @@
 {
 	"regions": [{
 			"_id": 1,
-			"Name": "Blekinge"
+			"name": "Blekinge"
 		},
 		{
 			"_id": 2,
-			"Name": "Dalarna"
+			"name": "Dalarna"
 		},
 		{
 			"_id": 3,
-			"Name": "Gotland"
+			"name": "Gotland"
 		},
 		{
 			"_id": 4,
-			"Name": "Gävleborg"
+			"name": "Gävleborg"
 		},
 		{
 			"_id": 5,
-			"Name": "Halland"
+			"name": "Halland"
 		},
 		{
 			"_id": 6,
-			"Name": "Jämtland"
+			"name": "Jämtland"
 		},
 		{
 			"_id": 7,
-			"Name": "Jönköping"
+			"name": "Jönköping"
 		},
 		{
 			"_id": 8,
-			"Name": "Kalmar"
+			"name": "Kalmar"
 		},
 		{
 			"_id": 9,
-			"Name": "Kronoberg"
+			"name": "Kronoberg"
 		},
 		{
 			"_id": 10,
-			"Name": "Norrbotten"
+			"name": "Norrbotten"
 		},
 		{
 			"_id": 11,
-			"Name": "Skåne"
+			"name": "Skåne"
 		},
 		{
 			"_id": 12,
-			"Name": "Stockholm"
+			"name": "Stockholm"
 		},
 		{
 			"_id": 13,
-			"Name": "Södermanland"
+			"name": "Södermanland"
 		},
 		{
 			"_id": 14,
-			"Name": "Uppsala"
+			"name": "Uppsala"
 		},
 		{
 			"_id": 15,
-			"Name": "Värmland"
+			"name": "Värmland"
 		},
 		{
 			"_id": 16,
-			"Name": "Västerbotten"
+			"name": "Västerbotten"
 		},
 		{
 			"_id": 17,
-			"Name": "Västernorrland"
+			"name": "Västernorrland"
 		},
 		{
 			"_id": 18,
-			"Name": "Västmanland"
+			"name": "Västmanland"
 		},
 		{
 			"_id": 19,
-			"Name": "Västra Götaland"
+			"name": "Västra Götaland"
 		},
 		{
 			"_id": 20,
-			"Name": "Örebro"
+			"name": "Örebro"
 		},
 		{
 			"_id": 21,
-			"Name": "Östergötland"
+			"name": "Östergötland"
 		}
 	]
 }
